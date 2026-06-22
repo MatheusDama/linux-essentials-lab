@@ -15,7 +15,7 @@ Repositório dedicado ao estudo aprofundado de sistemas operacionais Linux, base
 * `/scripts`: Automações em Bash desenvolvidas por mim para fixação do conteúdo.
 
 ## 🔧 Como Replicar os Labs
-1. Clone o repositório: `git clone https://github.com/seu-usuario/linux-essentials-lab.git`
+1. Clone o repositório: `[git clone https://github.com/seu-usuario/linux-essentials-lab.git](https://github.com/MatheusDama/linux-essentials-lab.git)`
 2. Certifique-se de estar em um ambiente Linux (ou utilizando WSL2/Docker).
 3. Para rodar os scripts de automação, dê permissão de execução: `chmod +x scripts/backup.sh`
 
@@ -24,4 +24,4 @@ Repositório dedicado ao estudo aprofundado de sistemas operacionais Linux, base
 * **Solução:** Criei um guia visual rápido na pasta `/labs/02-permissions` que me ajudou a fixar como o kernel interpreta os bits de leitura, escrita e execução.
 
 ---
-Mantido por [Seu Nome](LINK_DO_LINKEDIN) - 2026
+Mantido por [Matheus Santos Damasceno]([LINK_DO_LINKEDIN](https://www.linkedin.com/in/matheus-santos-damasceno-44323927a/)) - 2026
